@@ -14,7 +14,7 @@
 
 //宏定义
 #define SERV_PORT 	4004
-#define SERV_IP 	"192.168.3.212"
+#define SERV_IP 	"127.0.0.1"
 
 #define EPOLL_MAX	200000
 #define MAX_CHAR	300
